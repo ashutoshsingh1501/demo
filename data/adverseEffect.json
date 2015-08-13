@@ -1,0 +1,35 @@
+{
+    "result": [
+        {
+            "name": "Drug Ineffective",
+            "count": 248370
+        }, {
+            "name": "Nausea",
+            "count": 215876
+        }, {
+            "name": "Death",
+            "count": 194317
+        }, {
+            "name": "Fatigue",
+            "count": 166838
+        }, {
+            "name": "Headache",
+            "count": 162192
+        }, {
+            "name": "Dyspnoea",
+            "count": 158143
+        }, {
+            "name": "Pain",
+            "count": 145473
+        }, {
+            "name": "Dizziness",
+            "count": 142206
+        }, {
+            "name": "Vomiting",
+            "count": 138208
+        }, {
+            "name": "Diarrhoea",
+            "count": 137338
+        }
+    ]
+}

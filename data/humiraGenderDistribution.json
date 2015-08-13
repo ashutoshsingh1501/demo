@@ -1,0 +1,14 @@
+{
+    "result": [
+        {
+            "name": "male",
+            "y": 22
+        }, {
+            "name": "female",
+            "y": 74
+        }, {
+            "name": "other",
+            "y": 4
+        }
+    ]
+}

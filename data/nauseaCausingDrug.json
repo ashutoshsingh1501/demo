@@ -1,0 +1,35 @@
+{
+    "result": [
+        {
+            "name": "Chantix",
+            "count": 1200
+        }, {
+            "name": "Byetta",
+            "count": 1133
+        }, {
+            "name": "Aspirin",
+            "count": 9000
+        }, {
+            "name": "Enerel",
+            "count": 6010
+        }, {
+            "name": "Humira",
+            "count": 5992
+        }, {
+            "name": "Nexium",
+            "count": 5437
+        }, {
+            "name": "Lisinopril", 
+            "count": 5212
+        }, {
+            "name": "Etphormin HCL",
+            "count": 5200
+        }, {
+            "name": "Synthroid",
+            "count": 5187
+        }, {
+            "name": "Lipitor",
+            "count": 4367
+        }
+    ]
+}
